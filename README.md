@@ -24,7 +24,7 @@ bun install
 
 3. Criar uma chave de api.
 
-   Para criar uma chave de api [clique aqui](https://openweathermap.org)!
+Para criar uma chave de api [clique aqui](https://openweathermap.org)!
 
 4. Variável de ambiente
 
